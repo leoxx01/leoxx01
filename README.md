@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![[image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-carminhoto-857498177/)(https://www.linkedin.com/in/leonardo-carminhoto-857498177/)]
+![image][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-carminhoto-857498177/)(https://www.linkedin.com/in/leonardo-carminhoto-857498177/)]
