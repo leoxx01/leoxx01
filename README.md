@@ -2,8 +2,10 @@
 
   - Eu sou o leo atualmente com 19 anos, atuo como Desenvolvedor Web FullStack Junior 💻
   
-  - Comecei a me interessar por este ramo de programação aos meus 08 anos de idade pois via meu tio que era programador na epoca codando e acha super interesante um monte de caracteres na tela uma telinha preta cujo eu não sabia seu proposito isso começou a despertar meu interesse sobre este assunto, um pouco mais velho com meus 12 anos eu comecei a codar pois tinha muitos jogos que eu jogava que aceitavam codigos para mudar o jogo e eu sempre me aventurava e tentava criar algo para esses jogos na maiora das vezes não dava certo por erro de complicação mas eu achava divertido esse processo, hoje atualmente eu curso analise e desenvolvimento de sistemas e estou fazendo oque eu sempre amei fazer. 
-  
+  - Um pouco sobre mim:
+
+  Comecei a me interessar por este ramo de programação aos meus 08 anos de idade pois via meu tio que era programador na epoca codando e acha super interesante um monte de caracteres na tela uma telinha preta cujo eu não sabia seu proposito isso começou a despertar meu interesse sobre este assunto, um pouco mais velho com meus 12 anos eu comecei a codar pois tinha muitos jogos que eu jogava que aceitavam codigos para mudar o jogo e eu sempre me aventurava e tentava criar algo para esses jogos na maiora das vezes não dava certo por erro de complicação mas eu achava divertido esse processo, hoje atualmente eu curso analise e desenvolvimento de sistemas e estou fazendo oque eu sempre amei fazer. 
+
   - Atualmente eu domino as seguintes tecnologias:
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
