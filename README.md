@@ -1,6 +1,6 @@
 👋 Ola, Bem-Vindo ao meu perfil 
 
-  - Eu sou o leo atualmente com 19 anos, atuo como desenvolvedor web fullstack junior 💻
+  - Eu sou o leo atualmente com 19 anos, atuo como Desenvolvedor Web FullStack Junior 💻
   
   - Atualmente eu domino as seguintes tecnologias:
 
@@ -19,6 +19,7 @@
 
 
   - Estou aprendendo:
+  
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
