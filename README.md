@@ -1,6 +1,6 @@
 👋 Ola, Bem-Vindo ao meu perfil 
 
-  - Eu sou o leo atualmente com 19 anos, atuo como Desenvolvedor Web FullStack Junior 💻
+  - Eu sou o leo atualmente com 19 anos, atuo como Analista Desenvolvedor Junior 💻
   
   - Um pouco sobre mim:
 
