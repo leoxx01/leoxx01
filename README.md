@@ -1,6 +1,6 @@
 👋 Ola, Bem-Vindo ao meu perfil 
 
-  - Eu sou o leo atualmente com 21 anos, atuo como Analista Desenvolvedor Pleno 💻
+  - Eu sou o leo atualmente com 21 anos, atuo como Analista Desenvolvedor Pleno / Analista de Dados 💻
   
   - Um pouco sobre mim:
 
